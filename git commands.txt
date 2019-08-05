@@ -1,0 +1,14 @@
+#sbse imp 
+git status
+
+untracked mtlb files which are not added to git 
+git ko un files k baareme pta hi nhi hai
+git command.txt file dla na
+aret tu github ka bhool jaok
+github is like google drive for git
+ook
+
+abhi hume git command.txt git me add krni hai
+toh voh untracked se tracked ho jayega
+
+git add <filename>
